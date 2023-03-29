@@ -1,0 +1,14 @@
+1
+2.int
+3.float
+4.char
+5.double
+6.short
+if
+else
+void
+while
+stop
+puse
+etc
+
